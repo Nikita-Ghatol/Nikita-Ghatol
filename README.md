@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there, I'm Nikita Ghatol 👋
 
-<!--
-**Nikita-Ghatol/Nikita-Ghatol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PGCP-BDA Student @ CDAC Kharghar, Navi Mumbai
+📊 Aspiring Big Data Analyst | Data Enthusiast
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 Currently learning Big Data Technologies - Hadoop, Spark, Hive
+- 📈 Passionate about Data Analysis, Data Visualization & Insights
+- 🎯 Seeking opportunities in Data Analytics / Big Data
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/nikita-ghatol-205b28343)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+**Languages:** Python | SQL
+**Big Data:** Hadoop | Spark | Hive | Sqoop
+**Visualization:** Power BI | Tableau | Excel
+**Tools:** Jupyter, Git, GitHub, MySQL
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Nikita-Ghatol&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-Ghatol&layout=compact&theme=tokyonight)
+
+
